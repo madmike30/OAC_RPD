@@ -12,7 +12,7 @@
           "logicalTableSource" : "F1 Revenue",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.F1 Revenue.UNITS" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.F1 Revenue.UNITS" ]
           }
         } ]
       },
@@ -30,7 +30,7 @@
           "logicalTableSource" : "F1 Revenue",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.F1 Revenue.REVENUE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.F1 Revenue.REVENUE" ]
           }
         } ]
       },
@@ -43,7 +43,7 @@
       "name" : "F1 Revenue",
       "disable" : false,
       "tableMapping" : {
-        "tables" : [ "physicalTable:MySampleSales.F1 Revenue" ]
+        "tables" : [ "physicalTable:MySampleSales.BISAMPLE.F1 Revenue" ]
       },
       "combineWithOtherFragments" : false,
       "enableFragmentSelection" : false,

@@ -12,7 +12,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CALENDAR_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CALENDAR_DATE" ]
           }
         } ]
       }
@@ -26,7 +26,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAY_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAY_KEY" ]
           }
         } ]
       }
@@ -40,7 +40,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_HALF" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_HALF" ]
           }
         } ]
       }
@@ -54,7 +54,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_MONTH" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_MONTH" ]
           }
         } ]
       }
@@ -68,7 +68,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_QTR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_QTR" ]
           }
         } ]
       }
@@ -82,7 +82,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_WEEK" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_WEEK" ]
           }
         } ]
       }
@@ -96,7 +96,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_YEAR" ]
           }
         } ]
       }
@@ -110,7 +110,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAY_OF_MONTH" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAY_OF_MONTH" ]
           }
         } ]
       }
@@ -124,7 +124,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAY_OF_WEEK" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAY_OF_WEEK" ]
           }
         } ]
       }
@@ -138,7 +138,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAY_OF_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAY_OF_YEAR" ]
           }
         } ]
       }
@@ -152,7 +152,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_HALF" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_HALF" ]
           }
         } ]
       }
@@ -166,7 +166,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_MONTH" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_MONTH" ]
           }
         } ]
       }
@@ -180,7 +180,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_QTR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_QTR" ]
           }
         } ]
       }
@@ -194,7 +194,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_WEEK" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_WEEK" ]
           }
         } ]
       }
@@ -208,7 +208,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_YEAR" ]
           }
         } ]
       }
@@ -222,7 +222,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.JULIAN_DAY_NUM" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.JULIAN_DAY_NUM" ]
           }
         } ]
       }
@@ -236,7 +236,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.JULIAN_MONTH_NUM" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.JULIAN_MONTH_NUM" ]
           }
         } ]
       }
@@ -250,7 +250,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.JULIAN_QTR_NUM" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.JULIAN_QTR_NUM" ]
           }
         } ]
       }
@@ -264,7 +264,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.JULIAN_WEEK_NUM" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.JULIAN_WEEK_NUM" ]
           }
         } ]
       }
@@ -278,7 +278,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.PER_NAME_HALF" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.PER_NAME_HALF" ]
           }
         } ]
       }
@@ -292,7 +292,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.PER_NAME_MONTH" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.PER_NAME_MONTH" ]
           }
         } ]
       }
@@ -306,7 +306,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.PER_NAME_QTR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.PER_NAME_QTR" ]
           }
         } ]
       }
@@ -320,7 +320,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.PER_NAME_WEEK" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.PER_NAME_WEEK" ]
           }
         } ]
       }
@@ -334,7 +334,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.PER_NAME_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.PER_NAME_YEAR" ]
           }
         } ]
       }
@@ -348,7 +348,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_QTR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_QTR" ]
           }
         } ]
       }
@@ -362,7 +362,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_MTH" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_MTH" ]
           }
         } ]
       }
@@ -376,7 +376,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.BEG_OF_QTR_WID" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.BEG_OF_QTR_WID" ]
           }
         } ]
       }
@@ -390,7 +390,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.BEG_OF_MTH_WID" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.BEG_OF_MTH_WID" ]
           }
         } ]
       }
@@ -404,7 +404,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.BEG_OF_WEEK_WID" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.BEG_OF_WEEK_WID" ]
           }
         } ]
       }
@@ -418,7 +418,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.HOLIDAY" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.HOLIDAY" ]
           }
         } ]
       }
@@ -432,7 +432,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.LOADED" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.LOADED" ]
           }
         } ]
       }
@@ -446,7 +446,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_MONTH_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_MONTH_END_DATE" ]
           }
         } ]
       }
@@ -460,7 +460,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_QTR_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_QTR_END_DATE" ]
           }
         } ]
       }
@@ -474,7 +474,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_HALF_YEAR_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_HALF_YEAR_END_DATE" ]
           }
         } ]
       }
@@ -488,7 +488,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_YEAR_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_YEAR_END_DATE" ]
           }
         } ]
       }
@@ -502,7 +502,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_MONTH_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_MONTH_END_DATE" ]
           }
         } ]
       }
@@ -516,7 +516,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_QTR_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_QTR_END_DATE" ]
           }
         } ]
       }
@@ -530,7 +530,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_YEAR_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_YEAR_END_DATE" ]
           }
         } ]
       }
@@ -544,7 +544,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.CAL_WEEK_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.CAL_WEEK_END_DATE" ]
           }
         } ]
       }
@@ -558,7 +558,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.FSCL_WEEK_END_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.FSCL_WEEK_END_DATE" ]
           }
         } ]
       }
@@ -572,7 +572,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_WEEK" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_WEEK" ]
           }
         } ]
       }
@@ -586,7 +586,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_HALF_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_HALF_YEAR" ]
           }
         } ]
       }
@@ -600,7 +600,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_YEAR" ]
           }
         } ]
       }
@@ -614,7 +614,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_FSCL_WEEK" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_FSCL_WEEK" ]
           }
         } ]
       }
@@ -628,7 +628,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_FSCL_MONTH" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_FSCL_MONTH" ]
           }
         } ]
       }
@@ -642,7 +642,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_FSCL_QTR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_FSCL_QTR" ]
           }
         } ]
       }
@@ -656,7 +656,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_FSCL_HALF_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_FSCL_HALF_YEAR" ]
           }
         } ]
       }
@@ -670,7 +670,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.DAYS_IN_FSCL_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.DAYS_IN_FSCL_YEAR" ]
           }
         } ]
       }
@@ -684,7 +684,7 @@
           "logicalTableSource" : "D1 Time",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D1 Time.TOTAL_VALUE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D1 Time.TOTAL_VALUE" ]
           }
         } ]
       }
@@ -693,7 +693,7 @@
       "name" : "D1 Time",
       "disable" : false,
       "tableMapping" : {
-        "tables" : [ "physicalTable:MySampleSales.D1 Time" ]
+        "tables" : [ "physicalTable:MySampleSales.BISAMPLE.D1 Time" ]
       },
       "combineWithOtherFragments" : false,
       "enableFragmentSelection" : false,

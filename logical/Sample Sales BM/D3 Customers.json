@@ -12,7 +12,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.CUST_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.CUST_KEY" ]
           }
         } ]
       }
@@ -26,7 +26,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.NAME" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.NAME" ]
           }
         } ]
       }
@@ -40,7 +40,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.TYPE_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.TYPE_KEY" ]
           }
         } ]
       }
@@ -54,7 +54,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.FST_CONTACT_DT" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.FST_CONTACT_DT" ]
           }
         } ]
       }
@@ -68,7 +68,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.SEGMENT_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.SEGMENT_KEY" ]
           }
         } ]
       }
@@ -82,7 +82,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.INCOME_LVL" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.INCOME_LVL" ]
           }
         } ]
       }
@@ -96,7 +96,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.STATUS_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.STATUS_KEY" ]
           }
         } ]
       }
@@ -110,7 +110,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.LST_ORDER_DT" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.LST_ORDER_DT" ]
           }
         } ]
       }
@@ -124,7 +124,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.ADDRESS_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.ADDRESS_KEY" ]
           }
         } ]
       }
@@ -138,7 +138,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.MARITAL_ST" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.MARITAL_ST" ]
           }
         } ]
       }
@@ -152,7 +152,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.PREV_MARITAL_ST" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.PREV_MARITAL_ST" ]
           }
         } ]
       }
@@ -166,7 +166,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.PREV_MARITAL_ST_DT" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.PREV_MARITAL_ST_DT" ]
           }
         } ]
       }
@@ -180,7 +180,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.BIRTH_DT" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.BIRTH_DT" ]
           }
         } ]
       }
@@ -194,7 +194,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.CRDT_RATE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.CRDT_RATE" ]
           }
         } ]
       }
@@ -208,7 +208,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.GENDER" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.GENDER" ]
           }
         } ]
       }
@@ -222,7 +222,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.LTV" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.LTV" ]
           }
         } ]
       }
@@ -236,7 +236,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.NUM_ATTRIBUTE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.NUM_ATTRIBUTE" ]
           }
         } ]
       }
@@ -250,7 +250,7 @@
           "logicalTableSource" : "D3 Customers",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MySampleSales.D3 Customers.TOTAL_VALUE" ]
+            "expressionObjects" : [ "physicalColumn:MySampleSales.BISAMPLE.D3 Customers.TOTAL_VALUE" ]
           }
         } ]
       }
@@ -259,7 +259,7 @@
       "name" : "D3 Customers",
       "disable" : false,
       "tableMapping" : {
-        "tables" : [ "physicalTable:MySampleSales.D3 Customers" ]
+        "tables" : [ "physicalTable:MySampleSales.BISAMPLE.D3 Customers" ]
       },
       "combineWithOtherFragments" : false,
       "enableFragmentSelection" : false,

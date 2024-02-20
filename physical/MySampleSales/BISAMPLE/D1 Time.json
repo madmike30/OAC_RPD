@@ -1,7 +1,7 @@
 {
   "physicalTable" : {
     "name" : "D1 Time",
-    "sourceTable" : "physicalTable:MySampleSales.SAMP_TIME_DAY_D",
+    "sourceTable" : "physicalTable:MySampleSales.BISAMPLE.SAMP_TIME_DAY_D",
     "overrideSourceCacheSetting" : false
   }
 }

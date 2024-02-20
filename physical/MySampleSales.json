@@ -2,6 +2,7 @@
   "database" : {
     "name" : "MySampleSales",
     "databaseType" : "ORACLE_ADW",
+    "persistConnectionPool" : "New Connection Pool_1",
     "connectionPools" : [ {
       "name" : "New Connection Pool_1",
       "connection" : "'system'.'BISAMPLE'",
